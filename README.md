@@ -16,3 +16,18 @@ The dataset was provided by the project tutor as part of DSA-Training
   - For Data Collection
   - For Data Modification
   - For Querying and Analysis
+
+### Data Modifying and Preparation
+In the initial phase of this i performed 
+  - data inspection and Formatting
+
+### Exploratory Data Analysis
+EDA invoived the exploring of the data to answer some questions about the data such as;
+  - which product category had the highest sales
+  - what are the top and bottom three regions in terms of sales
+  - which ship mode incurred the most shipping cost
+  - who are the most valuable customers
+
+### Data Analysis
+This is where i included some basic lines of code or queries
+**** SQL

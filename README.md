@@ -31,3 +31,7 @@ EDA invoived the exploring of the data to answer some questions about the data s
 ### Data Analysis
 This is where i included some basic lines of code or queries
 **** SQL
+select top 1 region,sum(sales) as [total sales]
+from table
+group by region 
+order by [total sales]
